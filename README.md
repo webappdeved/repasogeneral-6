@@ -15,7 +15,7 @@ El programa reúne tres retos en una aplicación de consola. A través de ellos,
 El repositorio también permite organizar el código fuente, registrar las modificaciones, documentar el proceso de desarrollo y conservar evidencias de ejecución. Como parte de las actividades complementarias, se propone configurar Git para enviar los cambios a GitHub y GitLab mediante una estrategia de doble destino (Dual-Remote).
 
 Integrantes (Grupo N.º 03)
-Integrante 1: [Apellido y nombre] — [Rol y tareas realizadas].
+Integrante 1: [Apellido y nombre] — [Rol y tareas realizadas].???
 Integrante 2: [Apellido y nombre] — [Rol y tareas realizadas].
 Integrante 3: [Apellido y nombre] — [Rol y tareas realizadas].
 Integrante 4: [Apellido y nombre] — [Rol y tareas realizadas].
@@ -97,7 +97,7 @@ Operador de desreferenciación (*).
 Modificación de las variables originales.
 Uso de una variable temporal.
 Estructura Obligatoria del Repositorio
-La carpeta raíz repasogeneral debe organizarse de la siguiente manera:
+La carpeta raíz repasogeneral debe organizarse de la siguiente manera: la estructura no esta legible de forma ordenada
 
 repasogeneral/
 ├── .gitignore
